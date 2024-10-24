@@ -5,10 +5,10 @@
 I’m that guy who’s always tinkering with **Machine Learning**, diving into **Generative AI**, and trying to figure out how to make **LLMs** even smarter (spoiler: they still can’t make coffee… yet). ☕️🤖 Whether it’s mastering **NLP** or **Deep Reinforcement Learning**, I’m on a mission to fine-tune AI models to their absolute best—because who doesn’t love a well-optimized model, right? 🔧✨
 
 ### Here’s what I’m up to:
-- **Languages I speak** (no, not just Python 🐍 although my ex was fluent in that): Python, SQL, JavaScript
-- **Frameworks I mess around with**: TensorFlow, PyTorch, Keras, Scikit-learn
-- **AI playgrounds**: Hugging Face Transformers, OpenAI API
-- **Frontend wizardry** 🧙‍♂️: Vue.js, React.js, Tailwind CSS, ComfyUI
+- **Languages I speak** (no, not just Python 🐍 although my ex was fluent in that): Java, C++, C, Python, HTML
+- **Frameworks I mess around with**: NumPy, Pandas, Matplotlib, Seaborn, TensorFlow, PyTorch, Keras, Scikit-learn, ComfyUI
+- **AI playgrounds**: Hugging Face Transformers, OpenAI API, Marta Llama
+- **Frontend wizardry** 🧙‍♂️: Vue.js, React.js, Tailwind CSS
 - **Favorite tools** 🔨: Docker, Google Colab, Git, VS Code
 
 When I’m not coding (or attempting to outsmart my models), you’ll find me blending my love for **photography** 📸 and **cinema** 🎬 with cutting-edge tech. I’m always looking for ways to merge my techie side with my passion for cinema—turning my creative visions into reality, with a dash of **AI magic**! ✨🎥
