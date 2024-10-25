@@ -6,8 +6,8 @@ I’m that guy who’s always tinkering with **Machine Learning**, diving into *
 
 ### Here’s what I’m up to:
 - **Languages I speak** (no, not just Python 🐍 although my ex was fluent in that): Java, C++, C, Python, HTML
-- **Frameworks I mess around with**: NumPy, Pandas, Matplotlib, Seaborn, TensorFlow, PyTorch, Keras, Scikit-learn, ComfyUI
-- **AI playgrounds**: Hugging Face Transformers, OpenAI API, Marta Llama
+- **Frameworks I mess around with**: NumPy, Pandas, Matplotlib, Seaborn, TensorFlow, PyTorch, Keras, Scikit-learn, ComfyUI, GPTs, Llama, genAI, Huggingface
+- **AI playgrounds**: Hugging Face Transformers, OpenAI API, fal.ai, 
 - **Frontend wizardry** 🧙‍♂️: Vue.js, React.js, Tailwind CSS
 - **Favorite tools** 🔨: Docker, Google Colab, Git, VS Code
 
